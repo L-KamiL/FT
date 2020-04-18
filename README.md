@@ -2,7 +2,8 @@
 Build simple fonctional tests 
 
 ## Installation
-Install [Python 2.7](https://www.python.org/download/releases/2.7/)
+Install [Python 3](https://www.python.org/downloads/release/python-360/)
+Install TermColor module too.
 
 Git clone this project
 ```bash
@@ -12,7 +13,7 @@ git clone git@github.com:L-KamiL/FT.git
 ## Usage
 In terminal
 ```bash
-python FT.py
+python3 FT.py
 ```
 Then follow prompt
 
