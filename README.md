@@ -3,7 +3,7 @@ Build simple fonctional tests
 
 ## Installation
 Install [Python 3](https://www.python.org/downloads/release/python-360/)
-Install TermColor module too.
+Install [TermColor](pip install termcolor) module too.
 
 Git clone this project
 ```bash
